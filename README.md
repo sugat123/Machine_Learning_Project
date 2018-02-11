@@ -1,12 +1,12 @@
-# Machine_Learning_Project
-used keras on top of tensor-flow to build Long Short Term Memory (LSTM) to predict stock price  using historical closing price and trading volume
 
 # Overview
 This project utilizes Deep Learning models, Long-Short Term Memory (LSTM) Neural Network algorithm, to predict stock prices. For data with timeframes recurrent neural networks (RNNs) come in handy but recent researches have shown that LSTM, networks are the most popular and useful variants of RNNs.
+I have used Keras to build a LSTM to predict stock prices using historical closing price and trading volume and visualize both the predicted price values over time and the optimal parameters for the model.
 
 # Team Members
 Sugat Paneru (CS)
 Subash Maharjan(CS)
+
 # Dataset Used
 The dataset is taken from google finace's website in CSV format. The dataset consists of Open, High, Low and Closing Prices of Google Inc. stocks from January 1, 2005 to June 30, 2017
 
