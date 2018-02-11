@@ -12,4 +12,4 @@ Subash Maharjan(CS)
 
 # References
 1. https://github.com/Rajat-dhyani/Stock-Price-Predictor
-2. [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras]:  http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+2. [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras] (http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
