@@ -236,5 +236,5 @@ range = [np.amin(stocks_data['Close']), np.amax(stocks_data['Close'])]
 #Calculate the stock price delta in $
 
 true_delta = testScore*(range[1]-range[0])
-print('Delta Price: %.6f - RMSE * Adjusted Close Range' % true_delta)    
+print('Delta Price: %.6f' % true_delta)    
 
