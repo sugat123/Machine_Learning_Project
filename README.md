@@ -15,8 +15,7 @@ The dataset is taken from google finace's website in CSV format. The dataset con
 
 # References
 
-1. https://github.com/Rajat-dhyani/Stock-Price-Predictor
-2. [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras] (http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+1. [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras] (http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 
 # Software and Libraries
 
